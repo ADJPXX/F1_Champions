@@ -79,6 +79,7 @@ public class ChampionsList
         ["2022"] = "Max Verstappen",
         ["2023"] = "Max Verstappen",
         ["2024"] = "Max Verstappen",
-        ["2025"] = "Lando Norris"
+        ["2025"] = "Lando Norris",
+        ["2026"] = "Andrea Kimi Antonelli"
     };
 }

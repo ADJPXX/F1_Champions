@@ -35,9 +35,4 @@ Quando todos os anos forem respondidos, o programa termina. Ele não mantém pon
 
 ## Dados dos campeões
 
-As temporadas e os nomes esperados estão definidos diretamente no dicionário `Champions` de `ChampionsList.cs`. O conjunto atual cobre 1950–2025. Para incluir outra temporada ou corrigir um nome, atualize esse dicionário.
-
-## Publicação automatizada
-
-O workflow `.github/workflows/release.yml` é executado em pushes para `master`. Ele usa o SDK do .NET 10 para publicar uma versão autocontida, em arquivo único, para Windows x64 e cria uma GitHub Release com o executável `F1_Champions.exe`.
-
+As temporadas e os nomes esperados estão definidos diretamente no dicionário `Champions` de `ChampionsList.cs`. O conjunto atual cobre 1950–2026. Para incluir outra temporada ou corrigir um nome, atualize esse dicionário.
